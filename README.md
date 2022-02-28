@@ -29,7 +29,7 @@ Credit risk is an inherently unbalanced classification problem, as good loans ea
     - High Risk: 0.63
     - Low Risk: 0.69
 
-### Undersampling (Cluster Centroids
+### Undersampling (Cluster Centroids)
 
 ![Undersampling (Cluster Centroids)](https://github.com/mjkleineck/Credit_Risk_Analysis/blob/main/Resources/Undersampling-Cluster-Centroids.png)
 
