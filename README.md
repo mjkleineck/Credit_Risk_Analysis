@@ -76,3 +76,7 @@ Credit risk is an inherently unbalanced classification problem, as good loans ea
 * Recall Score:
     - High Risk: 0.92
     - Low Risk: 0.94
+
+## Summary
+
+With identifying low-risk and high-risk loans, all of the models did a good job at identifying low-risk loans. This make sense because the data set was skewed towards low-risk loans to begin with. Due to the nature of the loan business, we want to be sensitive towards identifying the high-risk loans so we can catch them before they are approved and vet the borrower further to ensure they are fit to lend to. Our success metric is the Recall Score of High-Risk loans. The Easy Ensemble AdaBoost Classifier performed the best in relation to the Recall Score of High-Risk loans. Thus, we recommend using this predictive model to identify High Risk loans in the future.
